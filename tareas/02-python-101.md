@@ -1,8 +1,12 @@
-Primero importé las librerías numpy y pandas, posteriormente definí mi función:
+### Importar librerías:
+
+Primero importé las librerías **numpy y pandas**, posteriormente definí mi función:
 
 `def densidad_poblacional(poblacion,area_ciudad):`
 
     return poblacion/area_ciudad
+    
+### Definir valores    
     
 Luego definí los valores de habitantes y extensión territorial para cada uno.
     
@@ -15,6 +19,8 @@ mexico_h=1262000000
 mexico_t=19730000`
 
 y apliqué la función para cada uno.
+
+### Gasto público
 
 Posteriormente definí el gasto público para 2019 y 2020 
 
